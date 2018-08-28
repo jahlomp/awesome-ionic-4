@@ -2,3 +2,13 @@
 
 > A curated list of Ionic 4 Resources. 
 
+### Generic
+* [Official Docs](https://beta.ionicframework.com/docs/)
+### Videos
+
+### Libaries
+
+### Articles
+
+### Initial Boilerplates / Examples
+
