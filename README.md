@@ -5,7 +5,7 @@
 ### Generic
 * [Official Docs](https://beta.ionicframework.com/docs/)
 ### Videos
-
+* [Ionic 4 com JavaScript puro](https://www.youtube.com/watch?v=WzYA4rv41jg&t=)
 ### Libaries
 
 ### Articles
