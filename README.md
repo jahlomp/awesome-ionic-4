@@ -6,6 +6,8 @@
 * [Official Docs](https://beta.ionicframework.com/docs/)
 ### Videos
 * [Ionic 4 com JavaScript puro](https://www.youtube.com/watch?v=WzYA4rv41jg&t=)
+* [Ionic 4 e o poder das variáveis CSS](https://www.youtube.com/watch?v=qSiefccSAB8)
+
 ### Libaries
 
 ### Articles
