@@ -7,6 +7,7 @@
 ### Videos
 * [Ionic 4 com JavaScript puro](https://www.youtube.com/watch?v=WzYA4rv41jg&t=)
 * [Ionic 4 e o poder das variáveis CSS](https://www.youtube.com/watch?v=qSiefccSAB8)
+* [Ionic 4 Playlist on IonicClass](https://www.youtube.com/playlist?list=PLLcU_u3Rm0UpkSrTtJ6pPbq2Wy9C-iobg)
 
 ### Libaries
 
